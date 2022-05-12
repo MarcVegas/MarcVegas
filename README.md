@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MarcVegas
-- 👀 I’m interested in Web development and UI/UX design 
-- 🌱 I’m currently learning React and Svelte
-- 💞️ I’m looking to collaborate on a real world project for a client 
-- 📫 You can reach me on Facebook or add me on Telegram 
+Hi 👋 My name is Omar Cayam
+===========================
 
-<!---
-MarcVegas/MarcVegas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Web Developer | Educator | Graphic Designer
+-------------------------------------------
+
+Former aspiring med students turned programmer. I spent the last 6 years of my life coding web applications initially with PHP but I also now ship apps using React and Node. I work as a computer instructor during the day teaching students the fundamental of programming primarily using C. On the nights, I create web applications that for small businesses (e.g. inventory management systems) and apps that help speed up my work as an educator
+
+* 🌍  I'm based in South East Asia
+* ✉️  You can contact me at [mcvegas15@duck.com](mailto:mcvegas15@duck.com)
+* 🧠  I'm learning Python
+* ⚡  Proficient in using Photoshop
